@@ -1,4 +1,4 @@
-## REPOSITORIO COM PROJETOS REALIZADOS NO BOOTCAMP TQI FULL STACK PELA DIGITAL INNOVATION ONE
+## Repositório com projetos realizados no Bootcamp da TQI, focado em FullStack + QA
 
 <h1> Tecnologias utilizadas/aprendidas no bootcamp: </h1>
 
