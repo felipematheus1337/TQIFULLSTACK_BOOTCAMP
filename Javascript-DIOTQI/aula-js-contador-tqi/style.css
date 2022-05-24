@@ -1,0 +1,15 @@
+#counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#intro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    display: block;
+}
