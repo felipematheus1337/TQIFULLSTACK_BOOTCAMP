@@ -39,3 +39,8 @@ console.log(object.boolean)
 
 var {string, boolean, objectInterno} = object
 console.log(string,boolean,objectInterno);
+
+let arrayN = [1,2,3,4]
+console.log(arrayN.every(item => item > 0))
+
+arrayN.some(item => item === 3)
